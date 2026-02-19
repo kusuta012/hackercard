@@ -1,0 +1,6 @@
+item,qty,total price
+pcb,5,$4.00
+pcba,2,$14.91
+shipping,1,$11.27
+coupon,1,-$10.00
+order subtotal,,$20.18
